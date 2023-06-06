@@ -1,0 +1,9 @@
+[submodule "src/frontend"]
+	path = src/frontend
+	url = https://github.com/duydang2311/altv-roleplay-frontend.git
+[submodule "src/GameMode.Client"]
+	path = src/GameMode.Client
+	url = https://github.com/duydang2311/altv-roleplay-client.git
+[submodule "src/GameMode.Server"]
+	path = src/GameMode.Server
+	url = https://github.com/duydang2311/altv-roleplay-server.git
