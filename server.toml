@@ -1,0 +1,10 @@
+announce = false
+debug = true
+host = '0.0.0.0'
+language = 'en'
+name = 'Fresh new alt:V RolePlay'
+modules = ['csharp-module']
+resources = ['gamemode']
+
+[csharp-module]
+disableDependencyDownload = true
