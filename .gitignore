@@ -3,3 +3,6 @@ AltV.Net.Host.dll
 AltV.Net.Host.runtimeconfig.json
 data/
 modules/
+resources/
+cache/
+server.log
