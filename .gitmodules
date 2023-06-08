@@ -7,3 +7,6 @@
 [submodule "src/GameMode.Server"]
 	path = src/GameMode.Server
 	url = https://github.com/duydang2311/altv-roleplay-server.git
+[submodule "src/shared"]
+	path = src/shared
+	url = https://github.com/duydang2311/altv-roleplay-shared.git
