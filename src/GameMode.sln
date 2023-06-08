@@ -5,8 +5,6 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameMode.Server", "GameMode.Server\GameMode.Server.csproj", "{D11E30F7-9AC6-4473-ADBD-3B153D27126A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameMode.Client", "GameMode.Client\GameMode.Client.csproj", "{C1A6460B-CE67-4EE8-B2C6-D4CBEA27914D}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,9 +18,5 @@ Global
 		{D11E30F7-9AC6-4473-ADBD-3B153D27126A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D11E30F7-9AC6-4473-ADBD-3B153D27126A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D11E30F7-9AC6-4473-ADBD-3B153D27126A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C1A6460B-CE67-4EE8-B2C6-D4CBEA27914D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C1A6460B-CE67-4EE8-B2C6-D4CBEA27914D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C1A6460B-CE67-4EE8-B2C6-D4CBEA27914D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C1A6460B-CE67-4EE8-B2C6-D4CBEA27914D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
