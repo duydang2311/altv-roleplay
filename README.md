@@ -2,9 +2,9 @@
 
 ## Tech stack
 
-| Components | Technologies |
-| :--- | :--- |
-| __Server__ | C#, Entity Framework Core, Microsoft DI. |
-| __Client__ | C#, Microsoft DI. |
-| __Front-end__ | Svelte, TypeScript, Vite, TailwindCSS. |
-| __Database__ | PostgreSQL. |
+| Components    | Technologies                             |
+| :------------ | :--------------------------------------- |
+| **Server**    | C#, Entity Framework Core, Microsoft DI. |
+| **Client**    | TypeScript, esbuild.                     |
+| **Front-end** | Svelte, TypeScript, Vite, TailwindCSS.   |
+| **Database**  | PostgreSQL.                              |
