@@ -8,3 +8,4 @@ cache/
 server.log
 .vscode/
 .env
+logs/
