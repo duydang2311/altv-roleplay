@@ -4,12 +4,9 @@
 [submodule "src/client"]
 	path = src/client
 	url = https://github.com/duydang2311/altv-roleplay-client.git
-[submodule "src/GameMode.Server"]
-	path = src/GameMode.Server
+[submodule "src/server"]
+	path = src/server
 	url = https://github.com/duydang2311/altv-roleplay-server.git
 [submodule "src/shared"]
 	path = src/shared
 	url = https://github.com/duydang2311/altv-roleplay-shared.git
-[submodule "src/GameMode.Server.Tests"]
-	path = src/GameMode.Server.Tests
-	url = https://github.com/duydang2311/altv-roleplay-server-tests.git
