@@ -1,8 +1,8 @@
 # alt:V RolePlay
 
-[![Build server](https://github.com/duydang2311/altv-roleplay-server/actions/workflows/dotnet.yml/badge.svg)](https://github.com/duydang2311/altv-roleplay-server/actions/workflows/dotnet.yml)
-[![Build client](https://github.com/duydang2311/altv-roleplay-client/actions/workflows/node.js.yml/badge.svg)](https://github.com/duydang2311/altv-roleplay-client/actions/workflows/node.js.yml)
-[![Build front-end](https://github.com/duydang2311/altv-roleplay-frontend/actions/workflows/node.js.yml/badge.svg)](https://github.com/duydang2311/altv-roleplay-frontend/actions/workflows/node.js.yml)
+[![Server CI](https://github.com/duydang2311/altv-roleplay-server/actions/workflows/dotnet.yml/badge.svg)](https://github.com/duydang2311/altv-roleplay-server/actions/workflows/dotnet.yml)
+[![Client CI](https://github.com/duydang2311/altv-roleplay-client/actions/workflows/node.js.yml/badge.svg)](https://github.com/duydang2311/altv-roleplay-client/actions/workflows/node.js.yml)
+[![Front-end CI](https://github.com/duydang2311/altv-roleplay-frontend/actions/workflows/node.js.yml/badge.svg)](https://github.com/duydang2311/altv-roleplay-frontend/actions/workflows/node.js.yml)
 
 ## Tech stack
 
